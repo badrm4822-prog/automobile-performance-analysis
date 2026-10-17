@@ -1,0 +1,10 @@
+metric,value
+Total vehicles,406
+Valid MPG observations,398
+Valid horsepower observations,400
+Average MPG,23.51
+Median MPG,23.00
+Average vehicle weight (lb),"2,979"
+Highest average-MPG origin,Japan (30.45 MPG)
+Highest average-MPG cylinder group,4 cylinders (29.29 MPG)
+MPG change: 1970 to 1982,79.3%

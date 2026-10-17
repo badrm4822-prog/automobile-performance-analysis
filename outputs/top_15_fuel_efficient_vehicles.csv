@@ -1,0 +1,16 @@
+car,mpg,origin,model_year,cylinders,weight,horsepower,displacement
+Mazda GLC,46.6,Japan,1980,4,2110,65.0,86.0
+Honda Civic 1500 gl,44.6,Japan,1980,4,1850,67.0,91.0
+Volkswagen Rabbit C (Diesel),44.3,Europe,1980,4,2085,48.0,90.0
+Volkswagen Pickup,44.0,Europe,1982,4,2130,52.0,97.0
+Volkswagen Dasher (diesel),43.4,Europe,1980,4,2335,48.0,90.0
+Volkswagen Rabbit Custom Diesel,43.1,Europe,1978,4,1985,48.0,90.0
+Volkswagen Rabbit,41.5,Europe,1980,4,2144,76.0,98.0
+Renault Lecar Deluxe,40.9,Europe,1980,4,1835,,85.0
+Datsun 210,40.8,Japan,1980,4,2110,65.0,85.0
+Datsun B210 GX,39.4,Japan,1978,4,2070,70.0,85.0
+Toyota Starlet,39.1,Japan,1981,4,1755,58.0,79.0
+Plymouth Champ,39.0,US,1981,4,1875,64.0,86.0
+Toyota Corolla Tercel,38.1,Japan,1980,4,1968,60.0,89.0
+Plymouth Horizon Miser,38.0,US,1982,4,2125,63.0,105.0
+Honda Civic,38.0,Japan,1982,4,1965,67.0,91.0
